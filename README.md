@@ -11,12 +11,14 @@
 - 👯 I’m looking to collaborate on **Innovative web and mobile applications that leverage modern technologies.**
 
 - 📫 How to reach me **madukadilshan32@gmail.com**
-
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
-
+<br>
 <a href="https://github.com/Madhuka-Dilshan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madhuka-Dilshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madhuka-Dilshan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
