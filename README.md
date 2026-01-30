@@ -22,7 +22,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madhuka-Dilshan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
