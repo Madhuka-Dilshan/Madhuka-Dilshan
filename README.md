@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuka-dilshan&label=Profile%20views&color=0e75b6&style=flat" alt="madhuka-dilshan" /> </p>
 
-- 🔭 I’m currently working on **Developing full-stack web applications with modern frameworks and tools.**
+- Architecting and Developing end-to-end full-stack web solutions using modern frameworks, scalable backend technologies, and best software engineering practices.
 
-- 👯 I’m looking to collaborate on **Innovative web and mobile applications that leverage modern technologies.**
+- I’m looking to collaborate on **Innovative web and mobile applications that leverage modern technologies.**
 
 - 📫 How to reach me **madukadilshan32@gmail.com**
   
